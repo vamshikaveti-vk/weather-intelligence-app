@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Modern responsive Weather Intelligence dashboard powered by Open-Meteo public APIs with real-time conditions, 7-day forecast, temperature trend charts, and smart planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
